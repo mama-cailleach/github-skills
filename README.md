@@ -23,23 +23,23 @@ Exercise: Introduction to repository management.
 - ### [skills-code-with-codespaces](https://github.com/mama-cailleach/skills-code-with-codespaces)
 Exercise: Code with Codespaces.
 
-### [skills-connect-the-dots](https://github.com/mama-cailleach/skills-connect-the-dots)
+- ### [skills-connect-the-dots](https://github.com/mama-cailleach/skills-connect-the-dots)
 Exercise: Connect the dots.
 
-### [skills-release-based-workflow](https://github.com/mama-cailleach/skills-release-based-workflow)
+- ### [skills-release-based-workflow](https://github.com/mama-cailleach/skills-release-based-workflow)
 Exercise: Create a release based workflow.
 
-### [skills-resolve-merge-conflicts](https://github.com/mama-cailleach/skills-resolve-merge-conflicts)
+- ### [skills-resolve-merge-conflicts](https://github.com/mama-cailleach/skills-resolve-merge-conflicts)
 Exercise: Resolve merge conflicts.
 
-### [skills-review-pull-requests](https://github.com/mama-cailleach/skills-review-pull-requests)
+- ### [skills-review-pull-requests](https://github.com/mama-cailleach/skills-review-pull-requests)
 Exercise: Learn how to review pull requests effectively on GitHub.
 
-### [skills-github-pages](https://github.com/mama-cailleach/skills-github-pages)
+- ### [skills-github-pages](https://github.com/mama-cailleach/skills-github-pages)
 Exercise: Get started with GitHub Pages for publishing sites.
 
-### [skills-communicate-using-markdown](https://github.com/mama-cailleach/skills-communicate-using-markdown)
+- ### [skills-communicate-using-markdown](https://github.com/mama-cailleach/skills-communicate-using-markdown)
 Exercise: Practice communication using Markdown on GitHub.
 
-### [skills-introduction-to-github](https://github.com/mama-cailleach/skills-introduction-to-github)
+- ### [skills-introduction-to-github](https://github.com/mama-cailleach/skills-introduction-to-github)
 Exercise: Introduction to GitHub basics and repository setup.
