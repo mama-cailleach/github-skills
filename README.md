@@ -1,6 +1,6 @@
 # GitHub Skills
 
-An for all the [GitHub Skills](https://skills.github.com/) Tutorials I've completed.  
+An index for all the [GitHub Skills](https://skills.github.com/) Tutorials I've completed.  
 Below is a list of my GitHub Skills projects (latest first).  
 
 ## Projects
