@@ -5,8 +5,8 @@ Below is a list of my GitHub Skills projects (latest first).
 
 ## Projects
 
-- ### [skills-expand-your-team-with-copilot](https://github.com/mama-cailleach/skills-expand-your-team-with-copilot)
-Exercise: Expand your team with GitHub Copilot coding agent.
+- ### [skills-hello-github-actions](https://github.com/mama-cailleach/skills-hello-github-actions)
+Exercise: Create and run a GitHub Actions Workflow 
 
 - ### [skills-integrate-mcp-with-copilot](https://github.com/mama-cailleach/skills-integrate-mcp-with-copilot)
 Exercise: Integrate Model Context Protocol with GitHub Copilot.
