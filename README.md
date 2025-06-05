@@ -1,6 +1,6 @@
 # GitHub Skills
 
-A repository for all the GitHub Skills Tutorials I've completed.  
+A repository for all the [GitHub Skills](https://skills.github.com/) Tutorials I've completed.  
 Below is a list of my GitHub Skills projects (latest first).  
 
 ## Projects
