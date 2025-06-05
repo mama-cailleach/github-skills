@@ -5,22 +5,22 @@ Below is a list of my GitHub Skills projects (latest first).
 
 ## Projects
 
-### [skills-expand-your-team-with-copilot](https://github.com/mama-cailleach/skills-expand-your-team-with-copilot)
+- ### [skills-expand-your-team-with-copilot](https://github.com/mama-cailleach/skills-expand-your-team-with-copilot)
 Exercise: Expand your team with GitHub Copilot coding agent.
 
-### [skills-integrate-mcp-with-copilot](https://github.com/mama-cailleach/skills-integrate-mcp-with-copilot)
+- ### [skills-integrate-mcp-with-copilot](https://github.com/mama-cailleach/skills-integrate-mcp-with-copilot)
 Exercise: Integrate Model Context Protocol with GitHub Copilot.
 
-### [skills-your-first-extension-for-github-copilot](https://github.com/mama-cailleach/skills-your-first-extension-for-github-copilot)
+- ### [skills-your-first-extension-for-github-copilot](https://github.com/mama-cailleach/skills-your-first-extension-for-github-copilot)
 Exercise: My Copilot Extension.
 
-### [skills-getting-started-with-github-copilot](https://github.com/mama-cailleach/skills-getting-started-with-github-copilot)
+- ### [skills-getting-started-with-github-copilot](https://github.com/mama-cailleach/skills-getting-started-with-github-copilot)
 Exercise: Get started using GitHub Copilot.
 
-### [skills-introduction-to-repository-management](https://github.com/mama-cailleach/skills-introduction-to-repository-management)
+- ### [skills-introduction-to-repository-management](https://github.com/mama-cailleach/skills-introduction-to-repository-management)
 Exercise: Introduction to repository management.
 
-### [skills-code-with-codespaces](https://github.com/mama-cailleach/skills-code-with-codespaces)
+- ### [skills-code-with-codespaces](https://github.com/mama-cailleach/skills-code-with-codespaces)
 Exercise: Code with Codespaces.
 
 ### [skills-connect-the-dots](https://github.com/mama-cailleach/skills-connect-the-dots)
